@@ -76,7 +76,7 @@ to IT people could reference and not feel quite so lost. Enter this Repo.
   submitted on April 1st of any year. Those are actually pretty funny
 - RTFM: Two definitions.
   - Read The Fucking Manual
-  - Read The Fucking Monitor.  
+  - Read The Fucking Monitor.
     Basically, a warning to a technical people they are on the verge of initiating the ID10T protocol themselves because
     the answer to their question is in the documentation, the stack trace on the monitor, or a quick and simple Google/Stack
     Overflow search away. Can also be used when frustrated with non-technical people for their lack of willingness to read

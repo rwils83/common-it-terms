@@ -22,6 +22,7 @@ to IT people could reference and not feel quite so lost. Enter this Repo.
   the checks. You will see it when you deal with them.
 
 ### D
+- douche waffle: You know that type of person that is just absolutely narcississtic, god's gift to man kind, and for some reason you just want to smack them as soon as they walk through the room? So imagine that persons auora, and put it on anything from humans to computer applications. This is a douche waffle. 
 
 ### E
 

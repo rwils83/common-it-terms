@@ -17,9 +17,7 @@ to IT people could reference and not feel quite so lost. Enter this Repo.
 
 ### C
 
-- #### c-level: Although it may be obvious to some who this refers, there is a deeper meaning in the IT world. These are the
-  people that will keep your job needed. No matter what discipline of IT you work in. And no, it isn't because they write
-  the checks. You will see it when you deal with them.
+- #### c-level: Although it may be obvious to some who this refers, there is a deeper meaning in the IT world. These are the people that will keep your job needed. No matter what discipline of IT you work in. And no, it isn't because they write the checks. You will see it when you deal with them.
 
 ### D
 - douche waffle: You know that type of person that is just absolutely narcississtic, god's gift to man kind, and for some reason you just want to smack them as soon as they walk through the room? So imagine that persons auora, and put it on anything from humans to computer applications. This is a douche waffle. 

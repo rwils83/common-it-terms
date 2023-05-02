@@ -90,7 +90,8 @@ Two definitions.
 
 - #### Tango Uniform:  
 HR Safe way to say [Tits Up](#tits-up) (I must specifically attribute this to G, you know who you are brother)
-- #### TLDR: Too Long, Don't/Didn't Read: Basically, this is your buddy saving you from a long, boring (likely written by a c-level/manager/HR type of person) read and giving you an efficient summary of whatever BS the document is about
+- #### TLDR:  
+Too Long, Don't/Didn't Read: Basically, this is your buddy saving you from a long, boring (likely written by a c-level/manager/HR type of person) read and giving you an efficient summary of whatever BS the document is about
 - #### Tits Up:  
 Dead as fuck. Please also see definition for FUBAR
 

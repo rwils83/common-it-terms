@@ -102,7 +102,7 @@ Dead as fuck. Please also see definition for FUBAR
 ### W
 
 - #### wonky:  
-Computing devices are acting like [douche waffles](#douch-waffle)
+Computing devices are acting like [douche waffles](#douche-waffle)
 
 ### X
 

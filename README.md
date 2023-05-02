@@ -68,7 +68,7 @@ Pronounced eye dee ten tee. Can also be referred to as the eye dee ten tee RFC, 
 - #### PEBCAK:  
 See definition for [PEBKAC](#pebkac)
 - #### PEBKAC:  
-Problem Exists Between Keyboard and Chair. Basically the user has initiated the [ID10T](#id10t) protocol. Can also be used as PEBCAK
+Problem Exists Between Keyboard and Chair. Basically the user has initiated the [ID10T](#id10t-protocol) protocol. Can also be used as PEBCAK
 
 ### Q
 

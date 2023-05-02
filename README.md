@@ -13,7 +13,8 @@ to IT people could reference and not feel quite so lost. Enter this Repo.
 
 ### B
 
-- borked: When an application is in an equivalent state to FUBAR
+- borked:  
+When an application is in an equivalent state to FUBAR
 
 ### C
 

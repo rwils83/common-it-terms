@@ -17,7 +17,7 @@ to IT people could reference and not feel quite so lost. Enter this Repo.
 
 ### C
 
-- c-level: Although it may be obvious to some who this refers, there is a deeper meaning in the IT world. These are the
+- #### c-level: Although it may be obvious to some who this refers, there is a deeper meaning in the IT world. These are the
   people that will keep your job needed. No matter what discipline of IT you work in. And no, it isn't because they write
   the checks. You will see it when you deal with them.
 
